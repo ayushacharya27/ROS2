@@ -1,6 +1,6 @@
 # ROS2 Installation is done
 
-## After Installing we have to Source the our Terminal so that it knows where ROS2 and where to run ROS2 from
+## After Installing we have to Source the our Terminal so that it knows where is ROS2 and where to run ROS2 from
 
 ```bash
 source /opt/ros/humble/setup.bash
@@ -52,5 +52,5 @@ PATH=/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin
 ROS_DISTRO=humble
 ```
 
-## To make it permanent in order to run automiatically when u open a new terminal just paste it in the bash.rc folder
+## To make it permanent in order to run automiatically when u open a new terminal just paste it in the ~ /.bashrc
 
